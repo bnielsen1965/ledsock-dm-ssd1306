@@ -1,0 +1,16 @@
+{
+  "name": "ledsock-ssd1306",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "i2c-bus": "^1.2.2",
+    "oled-font-5x7": "^1.0.0",
+    "oled-i2c-bus": "^1.0.9"
+  }
+}
