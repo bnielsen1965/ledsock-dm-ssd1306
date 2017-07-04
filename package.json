@@ -1,5 +1,5 @@
 {
-  "name": "ledsock-ssd1306",
+  "name": "ledsock-dm-ssd1306",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
